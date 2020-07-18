@@ -1,9 +1,9 @@
 # boikoserhii.github.io
 
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>My website on GitHub Pages. It works!</p>
-</body>
-</html>
+#<!DOCTYPE html>
+#<html>
+#<body>
+#<h1>Hello World</h1>
+#<p>My website on GitHub Pages. It works!</p>
+#</body>
+#</html>
